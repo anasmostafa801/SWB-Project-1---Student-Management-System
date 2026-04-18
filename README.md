@@ -14,11 +14,11 @@ The system stores and manipulates data dynamically using C++ vectors, allowing e
 
 ⚙️ Core Features
 
-✔️ ➕ Add new student records
-✔️ 📋 Display all students in a structured table format
-✔️ 🔍 Search students by ID or name
-✔️ ✏️ Update existing student information
-✔️ ❌ Delete student records safely
+ ➕ Add new student records
+ 📋 Display all students in a structured table format
+ 🔍 Search students by ID or name
+ ✏️ Update existing student information
+ ❌ Delete student records safely
 
 These operations replicate fundamental CRUD (Create, Read, Update, Delete) database functionality.
 
